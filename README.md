@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Sensors%20%7C%20Relays-blue)](#)
 [![IoT](https://img.shields.io/badge/IoT%20Platform-Blynk%20Cloud-00C7B7)](#)
 [![Language](https://img.shields.io/badge/Firmware-Arduino%20C%2B%2B-00599C)](#)
-[![Course](https://img.shields.io/badge/Course-Software%20Engineering%20(FCAI--BU)-orange)](#)
+[![Course](https://img.shields.io/badge/Course-Software%20Engineering%20(BFCAI)-orange)](#)
 
 > **Safety Home** is a safety-critical IoT and Embedded Software System designed for homes and facilities to provide early detection and automated response against combustible gas leaks, smoke, sudden temperature spikes, and direct flames.
 
