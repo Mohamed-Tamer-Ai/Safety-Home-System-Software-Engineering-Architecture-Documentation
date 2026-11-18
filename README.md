@@ -1,4 +1,3 @@
-[Safety_Home_System_Readme.md](https://github.com/user-attachments/files/35040661/Safety_Home_System_Readme.md)
 # 🏠 Safety Home System | Software Engineering & Architecture Documentation
 
 [![Platform](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Sensors%20%7C%20Relays-blue)](#)
