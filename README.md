@@ -1,3 +1,5 @@
+<img width="822" height="711" alt="image" src="https://github.com/user-attachments/assets/fcb4402e-3c98-46aa-9a4a-b676980ef016" />
+
 # 🏠 Safety Home System | Software Engineering & Architecture Documentation
 
 [![Platform](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Sensors%20%7C%20Relays-blue)](#)
