@@ -1,5 +1,6 @@
 <div align="center">
   <img width="822" height="711" alt="Safety Home System" src="https://github.com/user-attachments/assets/fcb4402e-3c98-46aa-9a4a-b676980ef016" />
+  <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e1810486-6cd7-4904-bc38-cc7987c7da7a" />
 </div>
 
 # 🏠 Safety Home System | Software Engineering & Architecture Documentation
